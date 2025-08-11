@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+
+.Divy{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 3rem;
+    margin:20px;
+    
+}
+#outerdiv{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: blue;
+}
+
+.red{
+    background-color: rgb(156, 29, 29);
+
+}
+
+.Orange{
+    background-color: orange;
+    
+}
+
+.Green{
+    background-color: green;
+    
+}
+
+
+.violet{
+    background-color: rgb(135, 36, 135);
+    
+}
+
+.flash{
+    background-color: white;
+    border: 10px solid yellow;
+}
+
+.userflash{
+    background-color: chartreuse;
+    border:10px solid yellow;
+}
