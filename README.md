@@ -1,2 +1,2 @@
 # WEB-DEVELOPMENT-PROJECTS
-Simon Game , using HTML, CSS, JS
+Simon Game , using HTML, CSS, JS.
